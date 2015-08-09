@@ -1,0 +1,25 @@
+{
+  "name": "awesome-standard",
+  "description": "Delightful npm packages that make you say \"wow, didn't know that was possible!\"",
+  "version": "1.2.0",
+  "author": {
+    "name": "Feross Aboukhadijeh",
+    "email": "feross@feross.org",
+    "url": "http://feross.org/"
+  },
+  "bugs": {
+    "url": "https://github.com/feross/awesome-standard/issues"
+  },
+  "homepage": "https://github.com/feross/awesome-standard",
+  "keywords": [
+    "mad science",
+    "mad science modules",
+    "science",
+    "hackathon"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/feross/awesome-standard.git"
+  }
+}

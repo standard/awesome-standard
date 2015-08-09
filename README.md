@@ -8,6 +8,12 @@ Documenting the explosion of packages in the [`standard`](https://github.com/fer
 
 - **[standard](https://www.npmjs.com/package/standard)** - JavaScript Standard Style. One Style to Rule Them All!
 
+## usage stats
+
+- **[modules that use standard](https://gist.github.com/feross/e0882df2fe673d6ce064)** - stats from the npm registry
+- **[npm-stat.com](http://npm-stat.com/charts.html?package=standard&author=&from=&to=)** - download count graphs
+- **[standard-packages](https://npmjs.com/package/standard-packages)** - List of packages that use `standard`
+
 ## packages used by standard
 
 - **[eslint](https://www.npmjs.com/package/eslint)** - AST-based pattern checker for JavaScript

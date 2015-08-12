@@ -52,6 +52,7 @@ Documenting the explosion of packages in the [`standard`](https://github.com/fer
 - **[happiness](https://www.npmjs.com/package/happiness)** - standard customized to make @JedWatson happy
 - **[doublestandard](https://www.npmjs.com/package/doublestandard)** - standard, with even more semicolons
 - **[xo](https://www.npmjs.com/package/xo)** - "JavaScript happiness style"
+- **[jsw](https://www.npmjs.com/package/jsw)** - "the spec doesnt care about semicolons and neither should you"
 - **[obama](https://www.npmjs.com/package/obama)** - Move forward and standardize with Obama
 
 PRs welcome!

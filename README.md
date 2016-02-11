@@ -27,6 +27,10 @@ Documenting the explosion of packages in the [`standard`](https://github.com/fer
 - **[standard-format](https://www.npmjs.com/package/standard-format)** - standard automatic code formatter
 - **["unix commands" gist](https://gist.github.com/watson/453fc63cace521fcdadc)** - A list of search and replace unix commands to help make a node repository 'standard' compliant
 
+## editor snippets
+ - Sublime: **[sublime-js-snippets](https://github.com/jprichardson/sublime-js-snippets)**
+ - Atom: **[standardjs-snippets](https://atom.io/packages/standardjs-snippets)**
+ 
 ## pretty terminal output (reporters)
 
 - **[snazzy](https://www.npmjs.com/package/snazzy)** - Format JavaScript Standard Style as Stylish (i.e. snazzy) output

@@ -58,6 +58,7 @@ Documenting the explosion of packages in the [`standard`](https://github.com/fer
 - **[xo](https://www.npmjs.com/package/xo)** - "JavaScript happiness style"
 - **[jsw](https://www.npmjs.com/package/jsw)** - "the spec doesnt care about semicolons and neither should you"
 - **[obama](https://www.npmjs.com/package/obama)** - Move forward and standardize with Obama
+- **[aStandard](https://npmjs.com/package/a-standard)** - A stricter standard made for babel and es7
 
 PRs welcome!
 

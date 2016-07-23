@@ -30,6 +30,7 @@ Documenting the explosion of packages in the [`standard`](https://github.com/fer
 ## editor snippets
  - Sublime: **[sublime-js-snippets](https://github.com/jprichardson/sublime-js-snippets)**
  - Atom: **[standardjs-snippets](https://atom.io/packages/standardjs-snippets)**
+ - Visual Studio Code: **[vscode-react-standard](https://github.com/TimonVS/vscode-react-standard)**
  
 ## pretty terminal output (reporters)
 

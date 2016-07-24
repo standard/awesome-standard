@@ -38,6 +38,7 @@ Documenting the explosion of packages in the [`standard`](https://github.com/fer
 - **[standard-tap](https://www.npmjs.com/package/standard-tap)** - Format JavaScript Standard Style as TAP output
 - **[standard-json](https://www.npmjs.com/package/standard-json)** - Format JavaScript Standard Style output to a JSON array
 - **[standard-reporter](https://www.npmjs.com/package/standard-reporter)** - Reporters for feross/standard via unix pipes, many options
+- **[standard-summary](https://www.npmjs.com/package/standard-summary)** - Display output as a list of errors, ordered by count
 
 ## build tools
 

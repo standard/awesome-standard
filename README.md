@@ -10,9 +10,9 @@ Documenting the explosion of packages in the [`standard`](https://github.com/fer
 
 ## usage stats
 
-- **[modules that use standard](https://gist.github.com/feross/e0882df2fe673d6ce064)** - stats from the npm registry
-- **[npm-stat.com](http://npm-stat.com/charts.html?package=standard&author=&from=&to=)** - download count graphs
-- **[standard-packages](https://npmjs.com/package/standard-packages)** - List of packages that use `standard`
+- **[modules that use standard (standard-packages)](https://github.com/feross/standard-packages/blob/master/all.json)** - List of packages that use `standard`
+- **[download graphs of standard (npm-stat.com)](http://npm-stat.com/charts.html?package=standard&author=&from=&to=)** - npm registry download count
+- **[modules that use standard (gist)](https://gist.github.com/feross/e0882df2fe673d6ce064)** - out-of-date, current stats are higher
 
 ## packages used by standard
 

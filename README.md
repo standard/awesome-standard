@@ -49,6 +49,7 @@ Documenting the explosion of packages in the [`standard`](https://github.com/fer
 - **[standard-loader](https://www.npmjs.com/package/standard-loader)** - Lint webpack builds with standard
 - **[generator-babel-standard](https://www.npmjs.com/package/generator-babel-standard)** - Yeoman generator for new packages with babel and standard
 - **[standard-markdown](https://www.npmjs.com/package/standard-markdown)** - Lint all the javascript code blocks in your markdown files
+- **[docker-standard](https://hub.docker.com/r/geniousphp/standard-js/)** - Standardjs Docker image to easily and quickly lint and report javascript files. Very useful in Docker based build systems.
 
 ## forks
 

@@ -32,7 +32,10 @@ Documenting the explosion of packages in the [`standard`](https://github.com/fer
  - Sublime: **[sublime-js-snippets](https://github.com/jprichardson/sublime-js-snippets)**
  - Atom: **[standardjs-snippets](https://atom.io/packages/standardjs-snippets)**
  - Visual Studio Code: **[vscode-react-standard](https://github.com/TimonVS/vscode-react-standard)**
- 
+
+## editor plugins
+ - Atom: **[linter-js-standard-engine](https://atom.io/packages/linter-js-standard-engine)** - Linter plugin supporting standard and all standard-engine based linters
+
 ## pretty terminal output (reporters)
 
 - **[snazzy](https://www.npmjs.com/package/snazzy)** - Format JavaScript Standard Style as Stylish (i.e. snazzy) output

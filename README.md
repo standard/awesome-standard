@@ -7,6 +7,7 @@ Documenting the explosion of packages in the [`standard`](https://github.com/fer
 ## standard
 
 - **[standard](https://www.npmjs.com/package/standard)** - JavaScript Standard Style. One Style to Rule Them All!
+- **[standard-sass](https://www.npmjs.com/package/standard-sass)** - Sass & Scss & Css Standard Style. One Style to Rule Them All!
 
 ## usage stats
 

@@ -7,7 +7,6 @@ Documenting the explosion of packages in the [`standard`](https://github.com/fer
 ## standard
 
 - **[standard](https://www.npmjs.com/package/standard)** - JavaScript Standard Style. One Style to Rule Them All!
-- **[standard-sass](https://www.npmjs.com/package/standard-sass)** - Sass & Scss & Css Standard Style. One Style to Rule Them All!
 
 ## usage stats
 
@@ -70,6 +69,10 @@ Documenting the explosion of packages in the [`standard`](https://github.com/fer
 - **[aStandard](https://npmjs.com/package/a-standard)** - A stricter standard made for babel and es7
 - **[standard-own](https://npmjs.com/package/standard-own)** - standard but with more customization and individual rules.
 - **[standard-focus](https://www.npmjs.com/package/standard-focus)** - Focus on one error at a time.
+
+# inspired by `standard`
+
+- **[standard-sass](https://www.npmjs.com/package/standard-sass)** - Sass & Scss & Css Standard Style. One Style to Rule Them All!
 
 PRs welcome!
 

@@ -10,31 +10,39 @@ Documenting the explosion of packages in the [`standard`](https://github.com/fer
 
 ## usage stats
 
-- **[modules that use standard (standard-packages)](https://github.com/feross/standard-packages/blob/master/all.json)** - List of packages that use `standard`
+- **[npm packages that use standard (full list)](https://github.com/feross/standard-packages/blob/master/all.json)** - List of packages that use `standard`
 - **[download graphs of standard (npm-stat.com)](http://npm-stat.com/charts.html?package=standard&author=&from=&to=)** - npm registry download count
-- **[modules that use standard (gist)](https://gist.github.com/feross/e0882df2fe673d6ce064)** - out-of-date, current stats are higher
+- **[top npm packages (gist)](https://gist.github.com/feross/e0882df2fe673d6ce064)** - standard is one of the top packages on npm
 
 ## packages used by standard
 
 - **[eslint](https://www.npmjs.com/package/eslint)** - AST-based pattern checker for JavaScript
 - **[standard-engine](https://www.npmjs.com/package/standard-engine)** - standard's guts, extracted into a reuseable package. build your own!
 - **[eslint-config-standard](https://www.npmjs.com/package/eslint-config-standard)** - standard eslint rules, as a shareable config
-- **[eslint-config-standard-react](https://www.npmjs.com/package/eslint-config-standard-react)** - standard eslint rules for React and JSX
+- **[eslint-config-standard-jsx](https://www.npmjs.com/package/eslint-config-standard-jsx)** - standard eslint rules for JSX
 - **[eslint-plugin-standard](https://www.npmjs.com/package/eslint-plugin-standard)** - standard custom eslint rules (not part of eslint core)
 
 ## automatic code formatters
 
-- **[standard-format](https://www.npmjs.com/package/standard-format)** - standard automatic code formatter
-- **["unix commands" gist](https://gist.github.com/watson/453fc63cace521fcdadc)** - A list of search and replace unix commands to help make a node repository 'standard' compliant
+- `standard --fix` - automatic formatting is built-in to `standard`!
 - **[prettier-standard](https://www.npmjs.com/package/prettier-standard)** - format with [prettier](https://github.com/prettier/prettier) configured to standard rules
-
-## editor snippets
- - Sublime: **[sublime-js-snippets](https://github.com/jprichardson/sublime-js-snippets)**
- - Atom: **[standardjs-snippets](https://atom.io/packages/standardjs-snippets)**
- - Visual Studio Code: **[vscode-react-standard](https://github.com/TimonVS/vscode-react-standard)**
+- **["unix commands" gist](https://gist.github.com/watson/453fc63cace521fcdadc)** - A list of search and replace unix commands to help make a node repository 'standard' compliant
 
 ## editor plugins
- - Atom: **[linter-js-standard-engine](https://atom.io/packages/linter-js-standard-engine)** - Linter plugin supporting standard and all standard-engine based linters
+- Every major text editor has a plugin or built-in support for `standard`. See the [full list](https://github.com/standard/standard#are-there-text-editor-plugins) of supported editors.
+- Atom: **[linter-js-standard](https://atom.io/packages/linter-js-standard)** - linter
+- Atom: **[linter-js-standard-engine](https://atom.io/packages/linter-js-standard-engine)** - linter
+- Atom: **[standard-formatter](https://atom.io/packages/standard-formatter)** - auto-fixer
+- Atom: **[standardjs-snippets](https://atom.io/packages/standardjs-snippets)** - code snippets
+- Brackets: **[brackets-standard](https://github.com/ishamf/brackets-standard/)** - linter
+- Emacs: see [readme](https://github.com/standard/standard#emacs)
+- Sublime Text: **[SublimeLinter-contrib-standard](https://packagecontrol.io/packages/SublimeLinter-contrib-standard)** - linter
+- Sublime Test: **[StandardFormat](https://packagecontrol.io/packages/StandardFormat)** - auto-fixer
+- Visual Studio Code: **[vscode-standardjs](https://marketplace.visualstudio.com/items?itemName=chenxsan.vscode-standardjs)** - linter & auto-fixer
+- Vim: see [readme](https://github.com/standard/standard#vim)
+- Visual Studio Code: **[vscode-standardjs-snippets](https://marketplace.visualstudio.com/items?itemName=capaj.vscode-standardjs-snippets)** - code snippets
+- Visual Studio Code: **[vscode-react-standard](https://marketplace.visualstudio.com/items?itemName=TimonVS.ReactSnippetsStandard)** - code snippets
+- WebStorm (PhpStorm, IntelliJ, RubyMine, JetBrains, etc.): built-in support. see [readme](https://github.com/standard/standard#webstorm-phpstorm-intellij-rubymine-jetbrains-etc)
 
 ## pretty terminal output (reporters)
 
@@ -52,11 +60,11 @@ Documenting the explosion of packages in the [`standard`](https://github.com/fer
 - **[mocha-standard](https://www.npmjs.com/package/mocha-standard)** - Integrates standard into your mocha tests
 - **[standard-loader](https://www.npmjs.com/package/standard-loader)** - Lint webpack builds with standard
 - **[generator-babel-standard](https://www.npmjs.com/package/generator-babel-standard)** - Yeoman generator for new packages with babel and standard
-- **[standard-markdown](https://www.npmjs.com/package/standard-markdown)** - Lint all the javascript code blocks in your markdown files
 - **[docker-standard](https://hub.docker.com/r/geniousphp/standard-js/)** - Standardjs Docker image to easily and quickly lint and report javascript files. Very useful in Docker based build systems.
 
 # inspired by `standard`
 
+- **[standard-markdown](https://www.npmjs.com/package/standard-markdown)** - Lint all the javascript code blocks in your markdown files
 - **[stylelint-config-standard](https://www.npmjs.com/package/stylelint-config-standard)** - The standard shareable config for stylelint.
 - **[standard-sass](https://www.npmjs.com/package/standard-sass)** - Sass & Scss & Css Standard Style. One Style to Rule Them All!
 

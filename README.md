@@ -55,6 +55,11 @@ Documenting the explosion of packages in the [`standard`](https://github.com/fer
 - **[standard-markdown](https://www.npmjs.com/package/standard-markdown)** - Lint all the javascript code blocks in your markdown files
 - **[docker-standard](https://hub.docker.com/r/geniousphp/standard-js/)** - Standardjs Docker image to easily and quickly lint and report javascript files. Very useful in Docker based build systems.
 
+# inspired by `standard`
+
+- **[stylelint-config-standard](https://www.npmjs.com/package/stylelint-config-standard)** - The standard shareable config for stylelint.
+- **[standard-sass](https://www.npmjs.com/package/standard-sass)** - Sass & Scss & Css Standard Style. One Style to Rule Them All!
+
 ## forks
 
 - **[semistandard](https://www.npmjs.com/package/semistandard)** - standard, with semicolons
@@ -69,10 +74,6 @@ Documenting the explosion of packages in the [`standard`](https://github.com/fer
 - **[aStandard](https://npmjs.com/package/a-standard)** - A stricter standard made for babel and es7
 - **[standard-own](https://npmjs.com/package/standard-own)** - standard but with more customization and individual rules.
 - **[standard-focus](https://www.npmjs.com/package/standard-focus)** - Focus on one error at a time.
-
-# inspired by `standard`
-
-- **[standard-sass](https://www.npmjs.com/package/standard-sass)** - Sass & Scss & Css Standard Style. One Style to Rule Them All!
 
 PRs welcome!
 

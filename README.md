@@ -56,7 +56,6 @@ Documenting the explosion of packages in the [`standard`](https://github.com/fer
 
 - **[grunt-standard](https://www.npmjs.com/package/grunt-standard)** - Grunt plugin for standard
 - **[gulp-standard](https://www.npmjs.com/package/gulp-standard)** - Gulp plugin for standard
-- **[gulp-any-standard](https://www.npmjs.com/package/gulp-any-standard)** - Gulp plugin that supports standard and its forks
 - **[mocha-standard](https://www.npmjs.com/package/mocha-standard)** - Integrates standard into your mocha tests
 - **[standard-loader](https://www.npmjs.com/package/standard-loader)** - Lint webpack builds with standard
 - **[generator-babel-standard](https://www.npmjs.com/package/generator-babel-standard)** - Yeoman generator for new packages with babel and standard

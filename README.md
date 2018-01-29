@@ -1,5 +1,7 @@
 # Awesome Standard [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/standard/awesome-standard.svg)](https://greenkeeper.io/)
+
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
 Documenting the explosion of packages in the [`standard`](https://github.com/feross/standard) ecosystem!

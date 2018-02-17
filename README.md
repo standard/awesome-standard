@@ -58,9 +58,13 @@ Documenting the explosion of packages in the [`standard`](https://github.com/fer
 - **[gulp-standard](https://www.npmjs.com/package/gulp-standard)** - Gulp plugin for standard
 - **[mocha-standard](https://www.npmjs.com/package/mocha-standard)** - Integrates standard into your mocha tests
 - **[standard-loader](https://www.npmjs.com/package/standard-loader)** - Lint webpack builds with standard
-- **[generator-babel-standard](https://www.npmjs.com/package/generator-babel-standard)** - Yeoman generator for new packages with babel and standard
 - **[docker-standard](https://hub.docker.com/r/geniousphp/standard-js/)** - Standardjs Docker image to easily and quickly lint and report javascript files. Very useful in Docker based build systems.
 - **[rollup-plugin-standard](https://www.npmjs.com/package/rollup-plugin-standard)** - Lint Rollup builds with Standard
+
+## code/project generators
+
+- **[generator-babel-standard](https://www.npmjs.com/package/generator-babel-standard)** - Yeoman generator for new packages with babel and standard
+- **[generate-swap-project](https://www.npmjs.com/package/generate-swap-project)** - Generate Your ESNext+StandardJS+Mocha Ready, NodeJS Projects in Seconds!
 
 # inspired by `standard`
 

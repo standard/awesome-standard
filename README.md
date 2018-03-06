@@ -37,7 +37,7 @@ Documenting the explosion of packages in the [`standard`](https://github.com/fer
 - Brackets: **[brackets-standard](https://github.com/ishamf/brackets-standard/)** - linter
 - Emacs: see [readme](https://github.com/standard/standard#emacs)
 - Sublime Text: **[SublimeLinter-contrib-standard](https://packagecontrol.io/packages/SublimeLinter-contrib-standard)** - linter
-- Sublime Test: **[StandardFormat](https://packagecontrol.io/packages/StandardFormat)** - auto-fixer
+- Sublime Text: **[StandardFormat](https://packagecontrol.io/packages/StandardFormat)** - auto-fixer
 - Visual Studio Code: **[vscode-standardjs](https://marketplace.visualstudio.com/items?itemName=chenxsan.vscode-standardjs)** - linter & auto-fixer
 - Vim: see [readme](https://github.com/standard/standard#vim)
 - Visual Studio Code: **[vscode-standardjs-snippets](https://marketplace.visualstudio.com/items?itemName=capaj.vscode-standardjs-snippets)** - code snippets

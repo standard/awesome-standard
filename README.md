@@ -86,6 +86,7 @@ Documenting the explosion of packages in the [`standard`](https://github.com/fer
 - **[aStandard](https://npmjs.com/package/a-standard)** - A stricter standard made for babel and es7
 - **[standard-own](https://npmjs.com/package/standard-own)** - standard but with more customization and individual rules.
 - **[standard-focus](https://www.npmjs.com/package/standard-focus)** - Focus on one error at a time.
+- **[standa](https://www.npmjs.com/package/standa)** standard without JSX rules.
 
 PRs welcome!
 

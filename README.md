@@ -29,6 +29,7 @@ Documenting the explosion of packages in the [`standard`](https://github.com/fer
 - **["unix commands" gist](https://gist.github.com/watson/453fc63cace521fcdadc)** - A list of search and replace unix commands to help make a node repository 'standard' compliant
 
 ## editor plugins
+
 - Every major text editor has a plugin or built-in support for `standard`. See the [full list](https://github.com/standard/standard#are-there-text-editor-plugins) of supported editors.
 - Atom: **[linter-js-standard](https://atom.io/packages/linter-js-standard)** - linter
 - Atom: **[linter-js-standard-engine](https://atom.io/packages/linter-js-standard-engine)** - linter
@@ -66,11 +67,13 @@ Documenting the explosion of packages in the [`standard`](https://github.com/fer
 - **[generator-babel-standard](https://www.npmjs.com/package/generator-babel-standard)** - Yeoman generator for new packages with babel and standard
 - **[generate-swap-project](https://www.npmjs.com/package/generate-swap-project)** - Generate Your ESNext+StandardJS+Mocha Ready, NodeJS Projects in Seconds!
 - **[generate-swap-generator](https://www.npmjs.com/package/generate-swap-generator)** Generate Your Own ESNext+StandardJS+Mocha Ready NodeJS Generators In Seconds!
+
 # inspired by `standard`
 
 - **[standard-markdown](https://www.npmjs.com/package/standard-markdown)** - Lint all the javascript code blocks in your markdown files
 - **[stylelint-config-standard](https://www.npmjs.com/package/stylelint-config-standard)** - The standard shareable config for stylelint.
 - **[standard-sass](https://www.npmjs.com/package/standard-sass)** - Sass & Scss & Css Standard Style. One Style to Rule Them All!
+- **[wemake-frontend-styleguide](https://github.com/wemake-services/wemake-frontend-styleguide)** - JavaScript & TypeScript & Vue & JsDoc & Scss style guides based on standard tools. Very strict!
 
 ## forks
 
